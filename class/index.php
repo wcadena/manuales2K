@@ -1,0 +1,1 @@
+<h1>No tiene permiso para ver esto</h1>

@@ -1,0 +1,1 @@
+[{"Correo":"wcadena","clave":"wcadena","tipo":"admin"},{"Correo":"user","clave":"user","tipo":"user"},{"Correo":"user1","clave":"user1","tipo":"user"}]23
